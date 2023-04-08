@@ -1,4 +1,7 @@
-## Hi there 👋
+## StasisField 👋
+
+It's a VR content studio that makes fantastic things.
+Make the impossible a reality
 
 <!--
 
